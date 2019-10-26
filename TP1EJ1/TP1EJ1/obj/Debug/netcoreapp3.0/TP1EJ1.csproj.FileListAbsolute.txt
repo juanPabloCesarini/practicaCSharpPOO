@@ -1,0 +1,11 @@
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpPOO\TP1EJ1\TP1EJ1\bin\Debug\netcoreapp3.0\TP1EJ1.exe
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpPOO\TP1EJ1\TP1EJ1\bin\Debug\netcoreapp3.0\TP1EJ1.deps.json
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpPOO\TP1EJ1\TP1EJ1\bin\Debug\netcoreapp3.0\TP1EJ1.runtimeconfig.json
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpPOO\TP1EJ1\TP1EJ1\bin\Debug\netcoreapp3.0\TP1EJ1.runtimeconfig.dev.json
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpPOO\TP1EJ1\TP1EJ1\bin\Debug\netcoreapp3.0\TP1EJ1.dll
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpPOO\TP1EJ1\TP1EJ1\bin\Debug\netcoreapp3.0\TP1EJ1.pdb
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpPOO\TP1EJ1\TP1EJ1\obj\Debug\netcoreapp3.0\TP1EJ1.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpPOO\TP1EJ1\TP1EJ1\obj\Debug\netcoreapp3.0\TP1EJ1.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpPOO\TP1EJ1\TP1EJ1\obj\Debug\netcoreapp3.0\TP1EJ1.AssemblyInfo.cs
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpPOO\TP1EJ1\TP1EJ1\obj\Debug\netcoreapp3.0\TP1EJ1.dll
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpPOO\TP1EJ1\TP1EJ1\obj\Debug\netcoreapp3.0\TP1EJ1.pdb
