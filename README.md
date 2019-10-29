@@ -1,7 +1,5 @@
 # practicaCSharpPOO
 Continuación del curso de EducacionIT becado por el INET
-# practicaCSharpPOO
-EducacionIT curso .NET becado a través del INET
 ## TP1 de POO
 
 Temas: Clases, Constructores, Métodos, Creación de Objetos, Instanciación.
@@ -134,3 +132,41 @@ Define en la clase los siguientes métodos:
 	ingresar(double): permitirá ingresar una cantidad en la cuenta. 
 	retirar(double): permitirá sacar una cantidad de la cuenta (si hay saldo). 
 	Método que permita mostrar todos los datos de la cuenta.
+
+## Practica de Herencia
+
+## Tema: Crear clases con Herencia
+
+Ejercicio 1: Resolver  los siguientes puntos.
+
+1)	Generar una clase llamada Operación que tendrá 3 propiedades protegidas (nro1, nro2, resultado)
+2)	Establecer las propiedades de escritura y lectura.
+3)	Generar 2 clases llamadas SUMA y Resta, que heredaran los atributos de la superclase. 
+4)	Además crear para ambas clases  un método llamado operar que informara el resultado de la operación.
+5)	En el programa principal, llamar a Suma y Resta. Ingresarles los valores desde el void y llamar al método Operar.
+6)	Generar dos métodos llamados Imprimir que informen el resultado de la suma y la resta. 
+7)	Crear una tercera clase llamada Producto, que heredara los atributos de la superclase e informar el resultado usando un método Imprimir.
+
+Ejercicio 2: Realizar los siguientes puntos.
+
+Una compañía de editorial produce tanto libros impresos como audio-libros. 
+Diseñe una clase denominada Publicación que almacenara el título, autor y precio.
+A partir de esta se derivarán 2 clases libro y CD. 
+A la clase libro se le agregara el número de páginas. 
+A la otra clase CD, se le deberá agregar el tiempo de reproducción.
+
+Generar las propiedades de lectura y escritura.
+Generar un método que informe los datos de cada clase.
+
+Ejercicio 3:   Resolver el siguiente problema.
+
+1)	Crear una clase llamada Persona que tendrá tres campos: Nombre (texto), Apellido(texto) y Edad (entero)
+2)	Generar un Constructor de persona que recibirá los tres argumentos.
+3)	Crear una Propiedad de Lectura llamada APENOM, que informara la concatenación del Nombre guion Apellido. ¿Qué función usaría?
+4)	Generar una segunda Propiedad de Lectura llamada LargoApellido, que informara el largo del apellido. ¿Qué función usaría?
+5)	Generar una tercera Propiedad de Lectura llamada Info, que informara “apellido Largo” si tiene 10 o más letras y sino “apellido Corto”.
+6)	Generar un método Imprimir que informara Nombre, apellido en mayúsculas, Nombre y apellido concatenado, largo del apellido y el tipo de Apellido. 
+7)	Crear una segunda clase llamada Estudiante, que tendrá un campo llamado Matricula y año cursado.
+8)	Inicializar cada estudiante en base al constructor de la clase Persona.
+9)	Usando el método Imprimir, informar los datos de la clase persona más los dos campos de estudiante.
+10)	Crear dos objetos (Per1 y Est1) e informar los resultados,
