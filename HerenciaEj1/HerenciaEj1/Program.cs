@@ -70,18 +70,18 @@ namespace HerenciaEj1
             Suma s1 = new Suma();
             Resta r1 = new Resta();
             Producto p1 = new Producto();
-            s1.Nro1 = 10;
+            s1.Nro1 = 15;
             s1.Nro2 = 10;
             s1.operar();
             s1.imprimir();
 
             r1.Nro1 = 10;
-            r1.Nro2 = 10;
+            r1.Nro2 = 16;
             r1.operar();
             r1.imprimir();
 
-            p1.Nro1 = 10;
-            p1.Nro2 = 10;
+            p1.Nro1 = -10;
+            p1.Nro2 = 11;
             p1.operar();
             p1.imprimir();
             Console.ReadKey();
